@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="SpeedTimer">
-    <output-path>$PROJECT_DIR$/FinalBuilds</output-path>
-    <root id="archive" name="SpeedTimer.jar">
-      <element id="module-output" name="SpeedTimer" />
-    </root>
-  </artifact>
-</component>
