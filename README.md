@@ -1,0 +1,2 @@
+# SpeedTimerNoInspect
+SpeedTimer
